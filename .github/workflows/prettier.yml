@@ -4,7 +4,7 @@ on:
   push:
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   check-format:
@@ -18,12 +18,12 @@ jobs:
       - name: Setup Node.js 🔧
         uses: actions/setup-node@v4
         with:
-          node-version: 20.17.0 # ✅ use Node.js version compatible with latest npm
+          node-version: 20.17.0
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
-          npm install
+          npm ci
 
-      - name: Check Format 🧹
+      - name: Run Format Check with Prettier
         run: |
           npm run check-format
