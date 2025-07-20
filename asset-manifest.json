@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aefdca95.css",
+    "main.js": "/static/js/main.9f092867.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.11add2ab.chunk.js": "/static/js/769.11add2ab.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/university.png": "/static/media/university.42c42619821fbf30ee49.png",
+    "static/media/aw dropship.avif": "/static/media/aw dropship.dd7a5e107625a8d234bc.avif",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/aw.webp": "/static/media/aw.974df0a46fd37d08a34b.webp",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/fullfilment.avif": "/static/media/fullfilment.5467f3a6cc2649c8b4bb.avif",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/dqlab-logo.webp": "/static/media/dqlab-logo.0c59669a3383076fe091.webp",
+    "static/media/resume.pdf": "/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.aefdca95.css.map": "/static/css/main.aefdca95.css.map",
+    "main.9f092867.js.map": "/static/js/main.9f092867.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.11add2ab.chunk.js.map": "/static/js/769.11add2ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aefdca95.css",
+    "static/js/main.9f092867.js"
+  ]
+}
